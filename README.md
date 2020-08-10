@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-<!--
-**mystery2828/mystery2828** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
@@ -41,6 +40,7 @@ Here are some ideas to get you started:
 
 
 
-
+<!--
+**mystery2828/mystery2828** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 -->
