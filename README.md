@@ -9,10 +9,10 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on a project which can improve my skills
 - 🤔 I’m looking for help with a full time position in a reputed organisation
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/akashc1999/)
-- 📄 [Resume](https://sudhanshu456.github.io/stages/updated_resume.pdf) 
+- 📄 [Resume](https://drive.google.com/file/d/1m7czLMW8jp-KnvmoJA81JJS3B0qUAyib/view?usp=sharing) 
 - ⚡ Fun fact: I am a foodie🤣
 
-!Akash's github stats](https://github-readme-stats.vercel.app/api?username=mystery2828&show_icons=true)
+![Akash's github stats](https://github-readme-stats.vercel.app/api?username=mystery2828&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mystery2828&layout=compact)](https://github.com/mystery2828)
 
 ### Languages and Tools:
