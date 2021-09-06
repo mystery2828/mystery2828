@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on Machine Learning using python
 - 🌱 I’m currently learning Data Science and Full Stack Development
 - 👯 I’m looking to collaborate on a project which can improve my skills
-- 🤔 I’m looking for help with a full time position in a reputed organisation
+
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/akashc1999/)
 - 📄 [Resume](https://drive.google.com/file/d/1m7czLMW8jp-KnvmoJA81JJS3B0qUAyib/view?usp=sharing) 
 - ⚡ Fun fact: I am a foodie🤣
